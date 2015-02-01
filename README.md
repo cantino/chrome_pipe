@@ -2,6 +2,9 @@
 
 ## An experiment in a JavaScript UNIXy terminal
 
+* Free in the [Chrome Store](https://chrome.google.com/webstore/detail/chromepipe/ikkdlidmhdbibjhhakdjcjeganhgbnmf)
+* [Exciting video!](https://vimeo.com/118090094)
+
 # Technologies
 
 * JavaScript
