@@ -30,5 +30,5 @@ and then run
 
 ## Testing
 
-JavaScript and CoffeeScript is tested with [http://pivotal.github.com/jasmine/](jasmine).  With guard running,
+JavaScript and CoffeeScript is tested with [https://jasmine.github.io/](jasmine).  With guard running,
 open _spec/SpecRunner.html_ in your browser to run the tests.  (On a Mac, just do `open spec/SpecRunner.html`.)
